@@ -1,75 +1,56 @@
-# 📊 Shak's Data Portfolio
+**Welcome!**  
+I'm Shak, a Data Analyst based in London.
 
-Welcome!  
-I'm **Shak**, a Data Analyst based in **London**.
+I specialise in *Power BI* and *SQL*, with a bit of *Python* on the side.  
 
-I specialise in **Power BI** and **SQL**, with a bit of **Python** on the side.
+## Content
 
----
+**Home Page**: A summary of projects, containing screenshots and a little context.  
 
-## 🗂️ Content Overview
-
-### 🔹 Home Page
-A summary of projects, including screenshots and brief context.
-
-### 🔹 Projects
-1. **Ben's Pizzeria – January Sales Report**  
-   Tools: Power BI, SQL  
-2. **Retail Sales Report**  
-   Tools: Power BI  
-3. **Smartwatch Fitness Data**  
-   Tools: Python (Pandas)  
-4. **NBA.com – Second Round Gems**  
-   Tools: Tableau  
+### Projects
+- **Page 1**: Ben's Pizzeria January Sales Report - *Power BI and SQL*  
+- **Page 2**: Retail Sales Report - *Power BI*  
+- **Page 3**: Smartwatch Fitness Data - *Python / Pandas*  
+- **Page 4**: NBA.com Second Round Gems - *Tableau*
 
 ---
 
-## 📌 Project Details
+## Ben's Pizzaria - January 2025 Branch Sales Report (NYC & PHL)
 
-### 🍕 Ben's Pizzeria – January 2025 Branch Sales Report (NYC & PHL)
-**Tools**: MySQL, Power BI  
-I built this project end-to-end using a synthetic but deliberately flawed sales dataset, treating it like a real client brief.
+I built this project end-to-end using a synthetic but deliberately flawed sales dataset, with the approach of treating it as if it were commissioned with specific goals in mind. 	 
 
-- The raw CSV had issues like mixed formats, missing/inconsistent data, duplicate records, and typos — great for real-world data cleaning practice.
-- Cleaned and normalised the data using **MySQL**, separating it into smaller, more structured tables.
-- Imported into **Power BI**, used relationship detection, and built visuals aligned with business goals.
+The raw CSV arrived with typical issues such as mixed formats, missing or inconsistent data, duplicate records and even simple typos.  These made for realistic data cleaning practice using MySQL. 
 
-> **Lesson learned**: I should’ve added more columns to the original dataset to allow a broader range of visuals.
+The next step was normalising the data and separating it from one large mess into well-organised, smaller tables with much less redundancy. 
 
----
+The final step was uploading my normalised data into Power BI where it recognised table relationships and from there I built a series of visuals appropriate to the business context and objectives.
 
-### 🛍️ Sales Dashboard – E-Commerce (Power BI)
-**Tools**: Power BI  
-This dashboard presents insights from 326 days of e-commerce activity, with a focus on category performance.
-
-- Originally created early in my journey, the dashboard lacked polish.
-- I later revised the layout and visuals for a cleaner, more professional presentation.
-
-> Below: Before and After screenshots.
+*In hindsight, I should've added a lot more columns to the original dataset to allow for a more interesting range of visuals.*
 
 ---
 
-### ⌚ Smartwatch Fitness Data – Cleaning & Prep (Python)
-**Tools**: Python (Pandas)  
-Collected from an individual’s smartwatch over a month. Focused on cleaning and data integrity.
+## Sales dashboard - Power BI
 
-- Tackled missing values in the `Calories` column using **group-specific means** (based on workout duration: 45 or 60 mins), instead of a flat mean.
-- This avoided skewing the results and kept the data more realistic.
-
-> Temporary placeholder values (e.g. 305) were excluded from the calculations.
+This dashboard presents key performance insights from 326 days of e-commerce activity, focusing on category sales performance.  
+As it was an earlier project of mine, it lacked a professional finish - so I decided to clean it up.  Below are before and after screenshots.
 
 ---
 
-### 🧠 Data Professional Survey – Career & Industry Insights (Power BI)
-**Tools**: Power BI  
-A dashboard visualising survey responses from data professionals, including demographics, career paths, and industry trends.
+## Cleaning and Preparing Data Using Pandas - Python
 
-- This was my **first Power BI project**, built by following a YouTube tutorial with a pre-cleaned dataset.
-- I plan to revisit this and improve the design and storytelling.
+This dataset was collected from an individual’s smartwatch over the course of a month.  
+
+The screenshot is a part of the process used to clean the data as well as my thought process and some data integrity challenges I faced.
+
+### Data Integrity
+
+To handle missing data in the Calories column, I used the mean of each workout duration (45 or 60 mins) rather than a flat overall average. This avoided skewing the data and kept the numbers realistic.  
+The temporary mean of 305 were excluded from the calculations.
 
 ---
 
-## 📬 Contact Me
+## Data Professional Survey – Power BI
 
-📧 Email: [sadefuwa@gmail.com](mailto:sadefuwa@gmail.com)  
-📞 Phone: 07399 769 306
+This dashboard visualises insights from a survey of data professionals, covering their demographics, career paths, and industry trends.
+
+This was my first Power BI project.  I followed a YouTube tutorial using a provided dataset. I will soon revisit
