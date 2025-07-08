@@ -5,7 +5,7 @@ I specialise in *Power BI* and *SQL*, with a bit of *Python* on the side.
 
 ## Content
 
-**Home Page**: A summary of projects, containing screenshots and a little context.  
+**Home Page**: A summary of projects, containing screenshots and a little context.
 
 ### Projects
 
@@ -79,7 +79,7 @@ This dashboard visualises insights from a survey of data professionals, covering
 This was my first Power BI project.  I followed a YouTube tutorial using a provided dataset. I aim to revisit this project and improve it in the future.  
 
 <p align="center">
-  <img src="./Data%20Professional%20Survery%20PBI.png" width="800" alt="Data Professional Survey"/>
+  <img src="./Data%20Professional%20Survey%20PBI.png" width="1080" alt="Data Professional Survey"/>
 </p>
 
 
@@ -91,7 +91,7 @@ During my data analyst bootcamp, we were assigned to create a project focusing o
 In the dashboard revisit, I'll include multiple KPIs that will provide deeper insight into a single player's performance, for example when selecting a player on the visuals, i.e Gilbert Arenas, the surrounding KPIs will show you his Career points total, Usage %, and Net Rating. These will be in comparison to peers, above or below average.
 
 <p align="center">
-  <img src="./NBA%20Dashboard.png" width="800" alt="NBA Dashboard"/>
+  <img src="./NBA%20Dashboard.png" width="1080" alt="NBA Dashboard"/>
 </p>
 
 
