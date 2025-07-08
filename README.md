@@ -8,14 +8,19 @@ I specialise in *Power BI* and *SQL*, with a bit of *Python* on the side.
 **Home Page**: A summary of projects, containing screenshots and a little context.  
 
 ### Projects
-- **Page 1**: Ben's Pizzeria January Sales Report - *Power BI and SQL*  
-- **Page 2**: Retail Sales Report - *Power BI*  
-- **Page 3**: Smartwatch Fitness Data - *Python / Pandas*  
-- **Page 4**: NBA.com Second Round Gems - *Tableau*
+
+| Project Title                        | Tools              |
+|--------------------------------------|--------------------|
+| Ben's Pizzeria January Sales Report  | Power BI and SQL   |
+| Retail Sales Report                  | Power BI           |
+| Smartwatch Fitness Data              | Python / Pandas    |
+| NBA.com Second Round Gems            | Tableau            |
 
 ---
 
 ## Ben's Pizzaria - January 2025 Branch Sales Report (NYC & PHL)
+
+![Ben's Pizza Dashboard](./Ben%27s%20Pizza%20dashboard.png)
 
 I built this project end-to-end using a synthetic but deliberately flawed sales dataset, with the approach of treating it as if it were commissioned with specific goals in mind. 	 
 
@@ -33,6 +38,17 @@ The final step was uploading my normalised data into Power BI where it recognise
 
 This dashboard presents key performance insights from 326 days of e-commerce activity, focusing on category sales performance.  
 As it was an earlier project of mine, it lacked a professional finish - so I decided to clean it up.  Below are before and after screenshots.
+
+<table>
+  <tr>
+    <td align="center"><strong>Before</strong></td>
+    <td align="center"><strong>After</strong></td>
+  </tr>
+  <tr>
+    <td><img src="./Sales Dashboard before.png" width="480"/></td>
+    <td><img src="./Sales Dashboard after.png" width="480"/></td>
+  </tr>
+</table>
 
 ---
 
