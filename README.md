@@ -14,7 +14,9 @@ I specialise in *Power BI* and *SQL*, with a bit of *Python* on the side.
 | Ben's Pizzeria January Sales Report  | Power BI and SQL   |
 | Retail Sales Report                  | Power BI           |
 | Smartwatch Fitness Data              | Python / Pandas    |
+| Data Professional Survey             | Power BI           |
 | NBA.com Second Round Gems            | Tableau            |
+
 
 ---
 
@@ -54,14 +56,19 @@ As it was an earlier project of mine, it lacked a professional finish - so I dec
 
 ## Cleaning and Preparing Data Using Pandas - Python
 
-This dataset was collected from an individual’s smartwatch over the course of a month.  
+The below data set shows the workout information collected by an individual's watch over the course of a month.
 
-The screenshot is a part of the process used to clean the data as well as my thought process and some data integrity challenges I faced.
+<p align="center"><em>On the left: raw data (errors in yellow)<br>On the right: cleaned data (correction in green)</em></p>
+
+<img src="./Smartwatch%20data%20before%20and%20after.png" width="1060"/>
+
 
 ### Data Integrity
 
-To handle missing data in the Calories column, I used the mean of each workout duration (45 or 60 mins) rather than a flat overall average. This avoided skewing the data and kept the numbers realistic.  
-The temporary mean of 305 were excluded from the calculations.
+Instead of deleting rows with errors, it's important to correct them appropriately, especially when dealing with a small dataset. 
+
+For example, when handling missing values in the *Calories* column, I used the mean specific to each workout duration (45 or 60 minutes) instead of a flat overall average. This approach avoided skewing data or leaving it with holes, thus keeping the data realistic, accurate, and fit for purpose. 
+
 
 ---
 
@@ -69,4 +76,14 @@ The temporary mean of 305 were excluded from the calculations.
 
 This dashboard visualises insights from a survey of data professionals, covering their demographics, career paths, and industry trends.
 
-This was my first Power BI project.  I followed a YouTube tutorial using a provided dataset. I will soon revisit
+This was my first Power BI project.  I followed a YouTube tutorial using a provided dataset. I aim to revisit this project and improve it in the future.  
+
+
+
+## An Analysis of the NBA Second Round Draft – Tableau
+
+During my data analyst bootcamp, we were assigned to create a project focusing on one of our passions. The intention of this project was to explore a dataset with Tableau as the medium. Though very rudimentary, it offered my first experience in making visuals, using calculations (measures) and making dashboards. This dataset has a lot of potential and I will definitely recreate this project in Power BI and potentially expanding it with additional data. 
+
+In the dashboard revisit, I'll include multiple KPIs that will provide deeper insight into a single player's performance, for example when selecting a player on the visuals, i.e Gilbert Arenas, the surrounding KPIs will show you his Career points total, Usage %, and Net Rating. These will be in comparison to peers, above or below average.
+
+
