@@ -1,4 +1,4 @@
-**Welcome!**  
+# **Welcome!**  
 I'm Shak, a Data Analyst based in London.
 
 I specialise in *Power BI* and *SQL*, with a bit of *Python* on the side.  
@@ -47,8 +47,8 @@ As it was an earlier project of mine, it lacked a professional finish - so I dec
     <td align="center"><strong>After</strong></td>
   </tr>
   <tr>
-    <td><img src="./Sales Dashboard before.png" width="480"/></td>
-    <td><img src="./Sales Dashboard after.png" width="480"/></td>
+    <td><img src="./assets/Sales Dashboard before.png" width="480"/></td>
+    <td><img src="./assets/Sales Dashboard after.png" width="480"/></td>
   </tr>
 </table>
 
@@ -60,7 +60,7 @@ The below data set shows the workout information collected by an individual's wa
 
 <p align="center"><em>On the left: raw data (errors in yellow)<br>On the right: cleaned data (correction in green)</em></p>
 
-<img src="./Smartwatch%20data%20before%20and%20after.png" width="1060"/>
+<img src="./assets/Smartwatch%20data%20before%20and%20after.png" width="1060"/>
 
 
 ### Data Integrity
@@ -79,7 +79,7 @@ This dashboard visualises insights from a survey of data professionals, covering
 This was my first Power BI project.  I followed a YouTube tutorial using a provided dataset. I aim to revisit this project and improve it in the future.  
 
 <p align="center">
-  <img src="./Data%20Professional%20Survey%20PBI.png" width="1080" alt="Data Professional Survey"/>
+  <img src="./assets/Data%20Professional%20Survey%20PBI.png" width="1080" alt="Data Professional Survey"/>
 </p>
 
 
@@ -91,7 +91,7 @@ During my data analyst bootcamp, we were assigned to create a project focusing o
 In the dashboard revisit, I'll include multiple KPIs that will provide deeper insight into a single player's performance, for example when selecting a player on the visuals, i.e Gilbert Arenas, the surrounding KPIs will show you his Career points total, Usage %, and Net Rating. These will be in comparison to peers, above or below average.
 
 <p align="center">
-  <img src="./NBA%20Dashboard.png" width="1080" alt="NBA Dashboard"/>
+  <img src="./assets/NBA%20Dashboard.png" width="1080" alt="NBA Dashboard"/>
 </p>
 
 
