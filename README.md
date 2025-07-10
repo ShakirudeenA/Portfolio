@@ -86,7 +86,7 @@ This was my first Power BI project.  I followed a YouTube tutorial using a provi
 
 ## An Analysis of the NBA Second Round Draft – Tableau
 
-During my data analyst bootcamp, we were assigned to create a project focusing on one of our passions. The intention of this project was to explore a dataset with Tableau as the medium. Though very rudimentary, it offered my first experience in making visuals, using calculations (measures) and making dashboards. This dataset has a lot of potential and I will definitely recreate this project in Power BI and potentially expanding it with additional data. 
+During my data analyst bootcamp, we were assigned to create a project focusing on one of our passions. The intention of this project was to explore a dataset with Tableau as the medium. Though very rudimentary, it offered my first experience in making visuals, using calculations (measures) and making dashboards. This dataset has a lot of potential and I will definitely recreate this project in Power BI while expanding it with additional data. 
 
 In the dashboard revisit, I'll include multiple KPIs that will provide deeper insight into a single player's performance, for example when selecting a player on the visuals, i.e Gilbert Arenas, the surrounding KPIs will show you his Career points total, Usage %, and Net Rating. These will be in comparison to peers, above or below average.
 
